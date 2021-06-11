@@ -80,7 +80,7 @@ Source: [https://www.geeksforgeeks.org/named-entity-recognition](https://www.gee
 2.  Finetune Spacy-NER model and observe the performance.
 
 ##### Note: Manual annotating data could take some extra time but it would be worth exploring this experiment.
-
+![](images/spacy_ner.png)
 
 #### Observation -
 
@@ -109,13 +109,13 @@ Train model using approach – 2
 
 *Run workspace/code/train_approach2.py*
 
-	*python workspace/code/train_approach2.py*
+	python workspace/code/train_approach2.py
 
 
 Train model using approach – 3
 
 *Run workspace/code/train_approach3.py*
 
-	*python workspace/code/train_approach3.py*
+	python workspace/code/train_approach3.py
 
 ####  END
